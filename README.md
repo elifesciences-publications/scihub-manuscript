@@ -1,3 +1,7 @@
+
+### This code is associated with the paper from Himmelstein et al., "Research: Sci-Hub provides access to nearly all scholarly literature". eLife, 2018. http://dx.doi.org/10.7554/eLife.32822
+
+
 # Manuscript source for the Sci-Hub Coverage Study
 
 <!-- usage note: edit the H1 title above to personalize the manuscript -->
